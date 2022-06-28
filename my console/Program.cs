@@ -16,7 +16,7 @@ if (math == "+")
 
 if (math == "-")
 {
-    Console.WriteLine("Enter value1");
+    Console.WriteLine("Ente value1");
     var value1 = int.Parse(Console.ReadLine());
     Console.WriteLine("enter value2");
     var value2 = int.Parse(Console.ReadLine());
